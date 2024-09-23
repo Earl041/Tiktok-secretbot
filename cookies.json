@@ -1,7 +1,7 @@
 [
     [
         {"name": "sessionid", "value": "7526b11ba604da3e5e942b156410e14c", "domain": ".tiktok.com"},
-        {"name": "csrf_token", "value": "csrf-value1", "domain": ".tiktok.com"}
+        {"name": "csrf_token", "value": "59xyh12S-K9F5CTkVHq3RIQVpt6GwtyXkRIs", "domain": ".tiktok.com"}
     ],
     [
         {"name": "sessionid", "value": "session-id-value2", "domain": ".tiktok.com"},

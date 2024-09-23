@@ -4,7 +4,7 @@
         {"name": "csrf_token", "value": "59xyh12S-K9F5CTkVHq3RIQVpt6GwtyXkRIs", "domain": ".tiktok.com"}
     ],
     [
-        {"name": "sessionid", "value": "session-id-value2", "domain": ".tiktok.com"},
-        {"name": "csrf_token", "value": "csrf-value2", "domain": ".tiktok.com"}
+        {"name": "sessionid", "value": "8dfe8428b7c3158c1200eb6a1a9b0d6f", "domain": ".tiktok.com"},
+        {"name": "csrf_token", "value": "59xyh12S-K9F5CTkVHq3RIQVpt6GwtyXkRIs", "domain": ".tiktok.com"}
     ]
 ]

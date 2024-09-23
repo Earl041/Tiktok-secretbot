@@ -1,0 +1,10 @@
+[
+    [
+        {"name": "sessionid", "value": "session-id-value1", "domain": ".tiktok.com"},
+        {"name": "csrf_token", "value": "csrf-value1", "domain": ".tiktok.com"}
+    ],
+    [
+        {"name": "sessionid", "value": "session-id-value2", "domain": ".tiktok.com"},
+        {"name": "csrf_token", "value": "csrf-value2", "domain": ".tiktok.com"}
+    ]
+]
